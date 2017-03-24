@@ -1,5 +1,4 @@
 #! /bin/sh
-# Copyright 2016, Stefan Kuppelwieser <stefan.kuppelwieser@online.de>
 # -*- yaml -*-
 # Copying and distribution of this file, with or without modification,
 # are permitted in any medium without royalty provided the copyright
